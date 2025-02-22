@@ -3172,6 +3172,10 @@ upalinks:
   - ttl: 600
     type: CNAME
     value: 6f5d91a6-7aa7-49a6-b4ab-2b0111bb11a7.id.repl.co.
+    upandatom:
+  - ttl: 600
+    type: CNAME
+    value: up-atom-club.github.io/home.
 uqq467l64nnf3dyo6omjcjmcc3dmdqlb._domainkey:
   - ttl: 600
     type: CNAME
